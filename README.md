@@ -1,0 +1,2 @@
+# tableViewAdapter
+分离tableview的datasource和delegate
